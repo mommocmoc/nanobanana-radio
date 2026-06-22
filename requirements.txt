@@ -1,0 +1,4 @@
+google-genai
+pyaudio
+python-dotenv
+pyserial
